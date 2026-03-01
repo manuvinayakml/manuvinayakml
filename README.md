@@ -1,45 +1,54 @@
-👋 Hey, I'm Manu Vinayak ML
+# 👋 Hey, I'm Manu Vinayak ML
 
-Data Science Student | Systems Thinker | App Developer
+### 🧠 Data Science Student | 🔧 Systems Thinker | 🚀 App Developer
 
 I enjoy building systems that solve real-world problems — not just writing code for the sake of it.
-My focus is on backend logic, structured problem solving, and understanding how data drives decisions.
 
-🚀 About Me
+I'm especially drawn to backend logic, structured problem solving, and understanding how data influences decisions.  
+For me, good software isn’t just functional — it’s intentional.
 
-🧠 Strong interest in data-driven system design
+---
 
-🛠 Building applications with real-world utility
+## 🚀 About Me
 
-📍 Exploring location-based architectures
+- 🧠 Curious about **data-driven system design**
+- 🛠 Building applications with practical, real-world utility
+- 📍 Exploring **location-based architectures**
+- 🧩 Writing clean, structured solutions in **C** and **Python**
+- 🎬 Involved in the creation and development process of the *CineBook* app
 
-🧩 Clean problem-solving in C and Python
+I value clarity in systems, scalability in design, and consistency in growth.
 
-I value clarity, scalability, and consistency in both systems and self-growth.
+---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Languages
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-C | Python
+### Core Focus
+- Data Structures  
+- Backend Logic  
+- System Design Fundamentals  
+- Analytical Thinking  
 
-Concepts & Focus Areas
+---
 
-Data Structures
-Backend Logic
-System Design Fundamentals
-Analytical Thinking
-📊 Current Direction
+## 📊 Current Direction
 
-Strengthening backend foundations
+- Strengthening backend foundations  
+- Diving deeper into data science concepts  
+- Building scalable, structured applications  
+- Preparing for cross-platform system development  
 
-Expanding into deeper data science concepts
+---
 
-Building scalable, structured applications
+## 📌 Philosophy
 
-Preparing for cross-platform system development
-
-📌 Philosophy
-
-Build quietly. Improve daily.
-Consistency over hype. Depth over noise.
+> Build quietly.  
+> Improve daily.  
+> Consistency over hype.  
+> Depth over noise.
