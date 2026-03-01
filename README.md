@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hey, I'm Manu Vinayak ML
 
-<!--
-**manuvinayakml/manuvinayakml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Student | Systems Thinker | App Developer
 
-Here are some ideas to get you started:
+I enjoy building systems that solve real-world problems — not just writing code for the sake of it.
+My focus is on backend logic, structured problem solving, and understanding how data drives decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🧠 Strong interest in data-driven system design
+
+🛠 Building applications with real-world utility
+
+📍 Exploring location-based architectures
+
+🧩 Clean problem-solving in C and Python
+
+I value clarity, scalability, and consistency in both systems and self-growth.
+
+🛠 Tech Stack
+
+Languages
+
+C | Python
+
+Concepts & Focus Areas
+
+Data Structures
+Backend Logic
+System Design Fundamentals
+Analytical Thinking
+📊 Current Direction
+
+Strengthening backend foundations
+
+Expanding into deeper data science concepts
+
+Building scalable, structured applications
+
+Preparing for cross-platform system development
+
+📌 Philosophy
+
+Build quietly. Improve daily.
+Consistency over hype. Depth over noise.
