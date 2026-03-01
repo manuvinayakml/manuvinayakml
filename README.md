@@ -7,7 +7,7 @@ I enjoy building systems that solve real-world problems — not just writing cod
 I'm especially drawn to backend logic, structured problem solving, and understanding how data influences decisions.  
 For me, good software isn’t just functional — it’s intentional.
 
----
+
 
 ## 🚀 About Me
 
@@ -19,7 +19,7 @@ For me, good software isn’t just functional — it’s intentional.
 
 I value clarity in systems, scalability in design, and consistency in growth.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -35,7 +35,7 @@ I value clarity in systems, scalability in design, and consistency in growth.
 - System Design Fundamentals  
 - Analytical Thinking  
 
----
+
 
 ## 📊 Current Direction
 
@@ -44,7 +44,7 @@ I value clarity in systems, scalability in design, and consistency in growth.
 - Building scalable, structured applications  
 - Preparing for cross-platform system development  
 
----
+
 
 ## 📌 Philosophy
 
