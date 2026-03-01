@@ -15,7 +15,7 @@ For me, good software isn’t just functional — it’s intentional.
 - 🛠 Building applications with practical, real-world utility
 - 📍 Exploring **location-based architectures**
 - 🧩 Writing clean, structured solutions in **C** and **Python**
-- 🎬 Involved in the creation and development process of the *CineBook* app
+
 
 I value clarity in systems, scalability in design, and consistency in growth.
 
